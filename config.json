@@ -58,6 +58,13 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "rest-apis-with-fastapi",
+      "title": "Building REST APIs with FastAPI",
+      "description": "Build a task-management REST API with FastAPI, Pydantic validation, and CRUD endpoints.",
+      "path": "assignments/rest-apis-with-fastapi",
+      "dueDate": "2026-11-06"
     }
   ]
 }
